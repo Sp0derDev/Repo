@@ -1,0 +1,14 @@
+Package: com.sp0der.igmusicenabler
+Name: IG Music Enabler
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enables Instagram Music In Unsupported Regions. (No Options To Configure)
+Maintainer: Sp0der
+Author: Sp0der
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: com.sp0der.igmusicenabler_0.0.1_iphoneos-arm.deb
+Size: 2890
+MD5sum: bae78c942b4d0db318e06804194afc57
+SHA1: a6b395310b135bbea91c2d238fde62231a03ba69
+SHA256: 3d689587de5300b9e5b74313747bce8b62a63d0f8c6142af391ed940160d8ab9
