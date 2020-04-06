@@ -421,17 +421,17 @@ iframe {
   -moz-transition: all 0.4s;
   transition: all 0.4s;
 }
-.login100-form-btn-zebra {
+.login100-form-btn-cydia {
   font-family: Raleway-Bold;
   font-size: 16px;
   line-height: 1.5;
-  color: #d33f8d;
+  color: #fff;
   text-transform: uppercase;
 
   width: 100%;
   height: 62px;
   border-radius: 20px;
-  background: #fff;
+  background: #0250c5;
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-box;
