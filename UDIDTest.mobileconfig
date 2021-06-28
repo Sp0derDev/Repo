@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <dict>
+        <key>URL</key>
+	<string>https://api.sp0der.me/sp0derIPA/getUdid</string>
+        <key>DeviceAttributes</key>
+        <array>
+            <string>UDID</string>
+        </array>
+    </dict>
+    <key>PayloadOrganization</key>
+    <string>Spoods</string>
+    <key>PayloadDisplayName</key>
+    <string>Sp0der's UDID Grabber</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadUUID</key>
+    <string>0092ebbc-8bd6-4642-b24c-e8bd1ba85716</string>
+    <key>PayloadIdentifier</key>
+    <string>me.sp0der.getudid</string>
+    <key>PayloadDescription</key>
+    <string>Sp0der is hacking your device. Please Install The Profile To Continue</string>
+    <key>PayloadType</key>
+    <string>Profile Service</string>
+</dict>
+</plist>
